@@ -1,5 +1,5 @@
 __**Classement général**__
-1. **Approximate Inputs** : Pascal.Jacq
+1. **Approximate Inputs** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
