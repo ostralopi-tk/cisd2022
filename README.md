@@ -59,7 +59,13 @@ __**Classement général**__
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-11. **La Fatigue** :
+11. **blank** :
+```
+    - Objectifs :       34 | Emails :        1
+    - Textes    : 2.147e+9 | Images : 2.147e+9
+```
+
+12. **La Fatigue** :
 ```
     - Objectifs :       40 | Emails :        0
     - Textes    : 2.147e+9 | Images : 2.147e+9
