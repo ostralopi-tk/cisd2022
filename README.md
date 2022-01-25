@@ -17,43 +17,43 @@ __**Classement général**__
     - Textes    :      396 | Images : 1.085e+5
 ```
 
-4. **Complètement Infatiguables mais Sûrement Débordés** :
+4. **1nonDékip** :
+```
+    - Objectifs :       18 | Emails :        2
+    - Textes    : 2.147e+9 | Images : 2.147e+9
+```
+
+5. **Complètement Infatiguables mais Sûrement Débordés** :
 ```
     - Objectifs :       19 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-5. **Shark** :
+6. **Shark** :
 ```
     - Objectifs :       33 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-6. **Kaws** :
+7. **Kaws** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-7. **Dinosaurus** :
+8. **Dinosaurus** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-8. **Approximate Inputs** :
+9. **Approximate Inputs** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-9. **Les cassos** :
-```
-    - Objectifs :       34 | Emails :        1
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-10. **1nonDékip** :
+10. **Les cassos** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
