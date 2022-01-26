@@ -23,55 +23,55 @@ __**Classement général**__
     - Textes    :       42 | Images :    48175
 ```
 
-5. **Fous Fouilleurs** :
+5. **1nonDékip** :
+```
+    - Objectifs :        0 | Emails :        3
+    - Textes    :      292 | Images :   108023
+```
+
+6. **Fous Fouilleurs** :
 ```
     - Objectifs :        0 | Emails :        2
     - Textes    :      396 | Images :   108466
 ```
 
-6. **1nonDékip** :
+7. **team13** :
 ```
     - Objectifs :       18 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-7. **Shark** :
+8. **Shark** :
 ```
     - Objectifs :       33 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-8. **Kaws** :
+9. **Kaws** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-9. **Dinosaurus** :
+10. **Dinosaurus** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-10. **Approximate Inputs** :
+11. **Approximate Inputs** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-11. **blank** :
+12. **blank** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-12. **J'ai pas d'idée** :
-```
-    - Objectifs :       34 | Emails :        1
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-13. **team13** :
+13. **J'ai pas d'idée** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
