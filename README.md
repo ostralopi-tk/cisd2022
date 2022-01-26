@@ -65,7 +65,13 @@ __**Classement général**__
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-12. **La Fatigue** :
+12. **J'ai pas d'idée** :
+```
+    - Objectifs :       34 | Emails :        1
+    - Textes    : 2.147e+9 | Images : 2.147e+9
+```
+
+13. **La Fatigue** :
 ```
     - Objectifs :       40 | Emails :        0
     - Textes    : 2.147e+9 | Images : 2.147e+9
