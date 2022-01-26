@@ -5,27 +5,27 @@ __**Classement général**__
     - Textes    :        0 | Images :    89348
 ```
 
-2. **Pause Café** :
+2. **Complètement Infatiguables mais Sûrement Débordés** :
+```
+    - Objectifs :        0 | Emails :        2
+    - Textes    :        0 | Images : 1.050e+5
+```
+
+3. **Pause Café** :
 ```
     - Objectifs :        0 | Emails :        2
     - Textes    :       59 | Images :    52165
 ```
 
-3. **Fous Fouilleurs** :
+4. **Fous Fouilleurs** :
 ```
     - Objectifs :        0 | Emails :        2
     - Textes    :      396 | Images : 1.085e+5
 ```
 
-4. **1nonDékip** :
+5. **1nonDékip** :
 ```
     - Objectifs :       18 | Emails :        2
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-5. **Complètement Infatiguables mais Sûrement Débordés** :
-```
-    - Objectifs :       19 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
@@ -35,25 +35,25 @@ __**Classement général**__
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-7. **Kaws** :
+7. **Les cassos** :
+```
+    - Objectifs :       34 | Emails :        3
+    - Textes    : 2.147e+9 | Images : 2.147e+9
+```
+
+8. **Kaws** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-8. **Dinosaurus** :
+9. **Dinosaurus** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-9. **Approximate Inputs** :
-```
-    - Objectifs :       34 | Emails :        1
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-10. **Les cassos** :
+10. **Approximate Inputs** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
@@ -77,6 +77,6 @@ __**Podiums**__
    Leaders Textes      | Leaders Images      
 -+---------------------+---------------------
 1|  ImportError: libcud| Pause Café          
-2| Pause Café          |  ImportError: libcud
-3| Fous Fouilleurs     | Fous Fouilleurs     
+2| Complètement Infatig|  ImportError: libcud
+3| Pause Café          | Complètement Infatig
 ```
