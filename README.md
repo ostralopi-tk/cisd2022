@@ -1,8 +1,8 @@
 __**Classement général**__
 1. ** ImportError: libcudart.so.10.1: cannot open shared object file** :
 ```
-    - Objectifs :        0 | Emails :        4
-    - Textes    :       44 | Images : 1.110e+5
+    - Objectifs :        0 | Emails :        5
+    - Textes    :        0 | Images :    89348
 ```
 
 2. **Pause Café** :
@@ -77,6 +77,6 @@ __**Podiums**__
    Leaders Textes      | Leaders Images      
 -+---------------------+---------------------
 1|  ImportError: libcud| Pause Café          
-2| Pause Café          | Fous Fouilleurs     
-3| Fous Fouilleurs     |  ImportError: libcud
+2| Pause Café          |  ImportError: libcud
+3| Fous Fouilleurs     | Fous Fouilleurs     
 ```
