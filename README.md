@@ -8,7 +8,7 @@ __**Classement général**__
 2. **Complètement Infatiguables mais Sûrement Débordés** :
 ```
     - Objectifs :        0 | Emails :        2
-    - Textes    :        0 | Images : 1.050e+5
+    - Textes    :        0 | Images :   104950
 ```
 
 3. **Pause Café** :
@@ -20,7 +20,7 @@ __**Classement général**__
 4. **Fous Fouilleurs** :
 ```
     - Objectifs :        0 | Emails :        2
-    - Textes    :      396 | Images : 1.085e+5
+    - Textes    :      396 | Images :   108466
 ```
 
 5. **1nonDékip** :
