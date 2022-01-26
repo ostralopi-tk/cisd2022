@@ -1,43 +1,43 @@
 __**Classement général**__
-1. **ImportError: libcudart.so.10.1: cannot open shared object file** :
+1. **Les cassos** :
+```
+    - Objectifs :        0 | Emails :        6
+    - Textes    :        0 | Images :    69595
+```
+
+2. **ImportError: libcudart.so.10.1: cannot open shared object file** :
 ```
     - Objectifs :        0 | Emails :        5
     - Textes    :        0 | Images :    89348
 ```
 
-2. **Complètement Infatiguables mais Sûrement Débordés** :
+3. **Complètement Infatiguables mais Sûrement Débordés** :
 ```
     - Objectifs :        0 | Emails :        2
     - Textes    :        0 | Images :   104950
 ```
 
-3. **Pause Café** :
+4. **Pause Café** :
 ```
     - Objectifs :        0 | Emails :        3
     - Textes    :       42 | Images :    48175
 ```
 
-4. **Fous Fouilleurs** :
+5. **Fous Fouilleurs** :
 ```
     - Objectifs :        0 | Emails :        2
     - Textes    :      396 | Images :   108466
 ```
 
-5. **1nonDékip** :
+6. **1nonDékip** :
 ```
     - Objectifs :       18 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-6. **Shark** :
+7. **Shark** :
 ```
     - Objectifs :       33 | Emails :        2
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-7. **Les cassos** :
-```
-    - Objectifs :       34 | Emails :        3
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
@@ -88,7 +88,7 @@ __**Podiums**__
 ```
    Leaders Textes                | Leaders Images                
 -+---------------------+---------------------
-1| ImportError: libcudart.so.10.1| Pause Café                    
-2| Complètement Infatiguables mai| ImportError: libcudart.so.10.1
-3| Pause Café                    | Complètement Infatiguables mai
+1| Les cassos                    | Pause Café                    
+2| ImportError: libcudart.so.10.1| Les cassos                    
+3| Complètement Infatiguables mai| ImportError: libcudart.so.10.1
 ```
