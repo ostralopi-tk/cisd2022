@@ -87,7 +87,7 @@ __**Classement général**__
 __**Podiums**__
 ```
    Leaders Textes                | Leaders Images                
--+---------------------+---------------------
+-+-------------------------------+-------------------------------
 1| Les cassos                    | Pause Café                    
 2| ImportError: libcudart.so.10.1| Les cassos                    
 3| Complètement Infatiguables mai| ImportError: libcudart.so.10.1
