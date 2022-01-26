@@ -35,51 +35,51 @@ __**Classement général**__
     - Textes    :      396 | Images :   108466
 ```
 
-7. **team13** :
+7. **La Fatigue** :
 ```
     - Objectifs :       18 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-8. **Shark** :
+8. **team13** :
+```
+    - Objectifs :       18 | Emails :        2
+    - Textes    : 2.147e+9 | Images : 2.147e+9
+```
+
+9. **Shark** :
 ```
     - Objectifs :       33 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-9. **Kaws** :
+10. **Kaws** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-10. **Dinosaurus** :
+11. **Dinosaurus** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-11. **Approximate Inputs** :
+12. **Approximate Inputs** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-12. **blank** :
+13. **blank** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-13. **J'ai pas d'idée** :
+14. **J'ai pas d'idée** :
 ```
     - Objectifs :       34 | Emails :        1
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-14. **La Fatigue** :
-```
-    - Objectifs :       40 | Emails :        0
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
