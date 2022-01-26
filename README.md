@@ -1,5 +1,5 @@
 __**Classement général**__
-1. ** ImportError: libcudart.so.10.1: cannot open shared object file** :
+1. **ImportError: libcudart.so.10.1: cannot open shared object file** :
 ```
     - Objectifs :        0 | Emails :        5
     - Textes    :        0 | Images :    89348
@@ -71,7 +71,13 @@ __**Classement général**__
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-13. **La Fatigue** :
+13. **team13** :
+```
+    - Objectifs :       34 | Emails :        1
+    - Textes    : 2.147e+9 | Images : 2.147e+9
+```
+
+14. **La Fatigue** :
 ```
     - Objectifs :       40 | Emails :        0
     - Textes    : 2.147e+9 | Images : 2.147e+9
@@ -80,9 +86,9 @@ __**Classement général**__
 
 __**Podiums**__
 ```
-   Leaders Textes      | Leaders Images      
+   Leaders Textes                | Leaders Images                
 -+---------------------+---------------------
-1|  ImportError: libcud| Pause Café          
-2| Complètement Infatig|  ImportError: libcud
-3| Pause Café          | Complètement Infatig
+1| ImportError: libcudart.so.10.1| Pause Café                    
+2| Complètement Infatiguables mai| ImportError: libcudart.so.10.1
+3| Pause Café                    | Complètement Infatiguables mai
 ```
