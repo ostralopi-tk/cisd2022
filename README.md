@@ -7,8 +7,8 @@ __**Classement général**__
 
 2. **Pause Café** :
 ```
-    - Objectifs :        0 | Emails :        1
-    - Textes    :      296 | Images :    70521
+    - Objectifs :        0 | Emails :        2
+    - Textes    :       59 | Images :    52165
 ```
 
 3. **Fous Fouilleurs** :
