@@ -17,22 +17,22 @@ __**Classement général**__
     - Textes    :        0 | Images :   104950
 ```
 
-4. **Pause Café** :
+4. **Fous Fouilleurs** :
+```
+    - Objectifs :        0 | Emails :        3
+    - Textes    :        3 | Images :    59354
+```
+
+5. **Pause Café** :
 ```
     - Objectifs :        0 | Emails :        4
     - Textes    :       36 | Images :    48175
 ```
 
-5. **1nonDékip** :
+6. **1nonDékip** :
 ```
-    - Objectifs :        0 | Emails :        3
+    - Objectifs :        0 | Emails :        4
     - Textes    :      292 | Images :   108023
-```
-
-6. **Fous Fouilleurs** :
-```
-    - Objectifs :        0 | Emails :        2
-    - Textes    :      396 | Images :   108466
 ```
 
 7. **La Fatigue** :
@@ -89,6 +89,6 @@ __**Podiums**__
    Leaders Textes                | Leaders Images                
 -+-------------------------------+-------------------------------
 1| Les cassos                    | Pause Café                    
-2| ImportError: libcudart.so.10.1| Les cassos                    
-3| Complètement Infatiguables mai| ImportError: libcudart.so.10.1
+2| ImportError: libcudart.so.10.1| Fous Fouilleurs               
+3| Complètement Infatiguables mai| Les cassos                    
 ```
