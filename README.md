@@ -1,20 +1,20 @@
 __**Classement général**__
-1. **Fous Fouilleurs** :
+1. **Dinosaurus** :
+```
+    - Objectifs :        0 | Emails :        7
+    - Textes    :        0 | Images :    59032
+```
+
+2. **Fous Fouilleurs** :
 ```
     - Objectifs :        0 | Emails :        4
     - Textes    :        0 | Images :    59354
 ```
 
-2. **Les cassos** :
+3. **Les cassos** :
 ```
     - Objectifs :        0 | Emails :       10
     - Textes    :        0 | Images :    60193
-```
-
-3. **Dinosaurus** :
-```
-    - Objectifs :        0 | Emails :        6
-    - Textes    :        0 | Images :    60311
 ```
 
 4. **ImportError: libcudart.so.10.1: cannot open shared object file** :
@@ -88,7 +88,7 @@ __**Podiums**__
 ```
    Leaders Textes                | Leaders Images                
 -+-------------------------------+-------------------------------
-1| Fous Fouilleurs               | Pause Café                    
-2| Les cassos                    | Fous Fouilleurs               
-3| Dinosaurus                    | Les cassos                    
+1| Dinosaurus                    | Pause Café                    
+2| Fous Fouilleurs               | Dinosaurus                    
+3| Les cassos                    | Fous Fouilleurs               
 ```
