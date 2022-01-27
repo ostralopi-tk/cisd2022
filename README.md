@@ -29,33 +29,33 @@ __**Classement général**__
     - Textes    :        0 | Images :   104950
 ```
 
-6. **Pause Café** :
+6. **Shark** :
+```
+    - Objectifs :        0 | Emails :        3
+    - Textes    :       12 | Images :    98004
+```
+
+7. **Pause Café** :
 ```
     - Objectifs :        0 | Emails :        5
     - Textes    :       21 | Images :    48175
 ```
 
-7. **1nonDékip** :
+8. **1nonDékip** :
 ```
     - Objectifs :        0 | Emails :        4
     - Textes    :      292 | Images :   108023
 ```
 
-8. **La Fatigue** :
+9. **La Fatigue** :
 ```
     - Objectifs :       18 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-9. **team13** :
+10. **team13** :
 ```
     - Objectifs :       18 | Emails :        2
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-10. **Shark** :
-```
-    - Objectifs :       33 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
