@@ -13,8 +13,8 @@ __**Classement général**__
 
 3. **Les cassos** :
 ```
-    - Objectifs :        0 | Emails :        6
-    - Textes    :        0 | Images :    69595
+    - Objectifs :        0 | Emails :        7
+    - Textes    :        0 | Images :    68872
 ```
 
 4. **ImportError: libcudart.so.10.1: cannot open shared object file** :
