@@ -31,8 +31,8 @@ __**Classement général**__
 
 6. **Shark** :
 ```
-    - Objectifs :        0 | Emails :        3
-    - Textes    :       12 | Images :    98004
+    - Objectifs :        0 | Emails :        4
+    - Textes    :        8 | Images :    98004
 ```
 
 7. **Pause Café** :
