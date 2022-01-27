@@ -53,25 +53,25 @@ __**Classement général**__
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-10. **team13** :
+10. **blank** :
 ```
     - Objectifs :       18 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-11. **Kaws** :
+11. **team13** :
+```
+    - Objectifs :       18 | Emails :        2
+    - Textes    : 2.147e+9 | Images : 2.147e+9
+```
+
+12. **Kaws** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
 ```
 
-12. **Approximate Inputs** :
-```
-    - Objectifs :       34 | Emails :        1
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-13. **blank** :
+13. **Approximate Inputs** :
 ```
     - Objectifs :       34 | Emails :        1
     - Textes    : 2.147e+9 | Images : 2.147e+9
