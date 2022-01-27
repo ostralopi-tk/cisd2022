@@ -19,8 +19,8 @@ __**Classement général**__
 
 4. **Pause Café** :
 ```
-    - Objectifs :        0 | Emails :        3
-    - Textes    :       42 | Images :    48175
+    - Objectifs :        0 | Emails :        4
+    - Textes    :       36 | Images :    48175
 ```
 
 5. **1nonDékip** :
