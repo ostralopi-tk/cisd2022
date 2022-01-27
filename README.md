@@ -1,20 +1,20 @@
 __**Classement général**__
-1. **Dinosaurus** :
+1. **Les cassos** :
+```
+    - Objectifs :        0 | Emails :       11
+    - Textes    :        0 | Images :    58888
+```
+
+2. **Dinosaurus** :
 ```
     - Objectifs :        0 | Emails :        7
     - Textes    :        0 | Images :    59032
 ```
 
-2. **Fous Fouilleurs** :
+3. **Fous Fouilleurs** :
 ```
     - Objectifs :        0 | Emails :        4
     - Textes    :        0 | Images :    59354
-```
-
-3. **Les cassos** :
-```
-    - Objectifs :        0 | Emails :       10
-    - Textes    :        0 | Images :    60193
 ```
 
 4. **ImportError: libcudart.so.10.1: cannot open shared object file** :
@@ -23,37 +23,37 @@ __**Classement général**__
     - Textes    :        0 | Images :    89348
 ```
 
-5. **Complètement Infatiguables mais Sûrement Débordés** :
+5. **blank** :
+```
+    - Objectifs :        0 | Emails :        3
+    - Textes    :        0 | Images :    98456
+```
+
+6. **Complètement Infatiguables mais Sûrement Débordés** :
 ```
     - Objectifs :        0 | Emails :        2
     - Textes    :        0 | Images :   104950
 ```
 
-6. **Shark** :
+7. **Shark** :
 ```
     - Objectifs :        0 | Emails :        6
     - Textes    :        2 | Images :    98004
 ```
 
-7. **Pause Café** :
+8. **Pause Café** :
 ```
     - Objectifs :        0 | Emails :        5
     - Textes    :       21 | Images :    48175
 ```
 
-8. **1nonDékip** :
+9. **1nonDékip** :
 ```
     - Objectifs :        0 | Emails :        4
     - Textes    :      292 | Images :   108023
 ```
 
-9. **La Fatigue** :
-```
-    - Objectifs :       18 | Emails :        2
-    - Textes    : 2.147e+9 | Images : 2.147e+9
-```
-
-10. **blank** :
+10. **La Fatigue** :
 ```
     - Objectifs :       18 | Emails :        2
     - Textes    : 2.147e+9 | Images : 2.147e+9
@@ -88,7 +88,7 @@ __**Podiums**__
 ```
    Leaders Textes                | Leaders Images                
 -+-------------------------------+-------------------------------
-1| Dinosaurus                    | Pause Café                    
-2| Fous Fouilleurs               | Dinosaurus                    
-3| Les cassos                    | Fous Fouilleurs               
+1| Les cassos                    | Pause Café                    
+2| Dinosaurus                    | Les cassos                    
+3| Fous Fouilleurs               | Dinosaurus                    
 ```
