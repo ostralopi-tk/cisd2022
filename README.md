@@ -7,7 +7,7 @@ __**Classement général**__
 
 2. **Dinosaurus** :
 ```
-    - Objectifs :        0 | Emails :        3
+    - Objectifs :        0 | Emails :        4
     - Textes    :        0 | Images :    60311
 ```
 
